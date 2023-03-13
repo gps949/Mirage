@@ -1,3 +1,9 @@
+```diff
+- 该带图形界面控制台及Windows客户端、iOS客户端（计划中）的进一步开发更新，
+- 已暂时转至“蜃境网络”兴趣小组私有仓库，如有兴趣参与开发或体验的小伙伴请与我联系   
+```   
+   
+
 ![Mirage logo](./docs/logo/logo_withname@1024.png)    
 基于Headscale实现的具有WebUI的Tailscale控制服务器    
 **注意** 此版本可能与Headscale、Tailscale官方版本均有不兼容的情况，如需与官方版本并用需要考虑进行兼容性测试。    
